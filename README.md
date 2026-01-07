@@ -36,7 +36,7 @@ fitHub is a full-stack web application designed to manage fitness club membershi
 - **Database:** PostgreSQL (hosted via Supabase)
 - **Authentication:** PyJWT (JSON Web Tokens)
 - **Networking:** Requests, Urllib3, Autobahn
-```
+
 
 
 ```
@@ -62,7 +62,7 @@ fitHub is a full-stack web application designed to manage fitness club membershi
   - Password reset and profile management.
 
 
-```
+
 
 ```
 
@@ -160,6 +160,6 @@ This project is licensed under the MIT License.
 
 **Copyright (c) 2026 RAJ**
 
-```
+
 
 ```
