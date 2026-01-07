@@ -1,0 +1,4 @@
+.venv
+# Local virtual environments
+# Add anything else you want ignored at the repo root below
+.env
