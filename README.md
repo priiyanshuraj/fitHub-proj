@@ -1,5 +1,5 @@
 ```markdown
-# fitHub
+## fitHub
 
 > A finance membership tracker.
 
@@ -16,7 +16,7 @@ fitHub is a full-stack web application designed to manage fitness club membershi
 
 ## 🛠 Tech Stack
 
-### Frontend (Client)
+## Frontend (Client)
 - **Framework:** [Next.js](https://nextjs.org/)
 - **Styling:** Tailwind CSS, Autoprefixer, PostCSS
 - **Components:** PrimeReact, React Icons, Hamburger React
@@ -25,7 +25,7 @@ fitHub is a full-stack web application designed to manage fitness club membershi
 - **Calendar:** React Big Calendar
 - **Utilities:** Moment.js, Classnames, React Use, React Hot Toast
 
-### Backend (Server)
+## Backend (Server)
 - **Framework:** [Django](https://www.djangoproject.com/)
 - **API:** Django REST Framework
 - **Real-time:** Django Channels, Daphne, Twisted
@@ -66,12 +66,12 @@ The project is organized into two main directories:
 
 ## 🚀 Getting Started
 
-### Prerequisites
+## Prerequisites
 - Node.js (v18+)
 - Python (v3.10+)
 - PostgreSQL database
 
-### Backend Setup (Server)
+## Backend Setup (Server)
 
 1. **Navigate to the server directory:**
    ```bash
@@ -102,7 +102,7 @@ python manage.py runserver
 
 
 
-### Frontend Setup (Client)
+## Frontend Setup (Client)
 
 1. **Navigate to the client directory:**
 ```bash
