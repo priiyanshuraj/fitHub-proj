@@ -148,6 +148,6 @@ The project requires environment variables for database connections and security
 
 This project is licensed under the MIT License.
 
-**Copyright (c) 2026 RAJ**
+**Copyright (c) 2026 Priyanshu Raj**
 
 
