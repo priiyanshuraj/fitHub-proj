@@ -38,6 +38,10 @@ fitHub is a full-stack web application designed to manage fitness club membershi
 - **Networking:** Requests, Urllib3, Autobahn
 ```
 
+
+```
+
+
 ## ✨ Features
 
 - **Role-Based Access Control:** Distinct functionality for Members, Coaches, and Treasurers.
@@ -56,6 +60,10 @@ fitHub is a full-stack web application designed to manage fitness club membershi
 - **User Authentication:**
   - Secure registration, login, and logout using JWT cookies.
   - Password reset and profile management.
+
+
+```
+
 ```
 
 ## 📂 Project Structure
