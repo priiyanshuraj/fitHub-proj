@@ -1,9 +1,10 @@
 ```markdown
-## fitHub
+### fitHub
 
 > A finance membership tracker.
 
 fitHub is a full-stack web application designed to manage fitness club memberships, finances, and communications. It features role-based access control, real-time chat functionality, and comprehensive class scheduling.
+```
 
 ## 📋 Table of Contents
 
@@ -13,6 +14,7 @@ fitHub is a full-stack web application designed to manage fitness club membershi
 - [Getting Started](#-getting-started)
 - [Environment Variables](#-environment-variables)
 - [License](#-license)
+```
 
 ## 🛠 Tech Stack
 
@@ -32,6 +34,7 @@ fitHub is a full-stack web application designed to manage fitness club membershi
 - **Database:** PostgreSQL (hosted via Supabase)
 - **Authentication:** PyJWT (JSON Web Tokens)
 - **Networking:** Requests, Urllib3, Autobahn
+```
 
 ## ✨ Features
 
@@ -51,6 +54,7 @@ fitHub is a full-stack web application designed to manage fitness club membershi
 - **User Authentication:**
   - Secure registration, login, and logout using JWT cookies.
   - Password reset and profile management.
+```
 
 ## 📂 Project Structure
 
@@ -64,12 +68,15 @@ The project is organized into two main directories:
   - `message_platform`
   - `user_auth`
 
+```
+
 ## 🚀 Getting Started
 
 ## Prerequisites
 - Node.js (v18+)
 - Python (v3.10+)
 - PostgreSQL database
+```
 
 ## Backend Setup (Server)
 
