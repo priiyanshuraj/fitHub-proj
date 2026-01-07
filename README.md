@@ -1,7 +1,7 @@
 ```markdown
 # fitHub
 
-> A finance membership tracker for CPS406.
+> A finance membership tracker.
 
 fitHub is a full-stack web application designed to manage fitness club memberships, finances, and communications. It features role-based access control, real-time chat functionality, and comprehensive class scheduling.
 
