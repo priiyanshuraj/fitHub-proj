@@ -75,8 +75,6 @@ The project is organized into two main directories:
   - `message_platform`
   - `user_auth`
 
-```
-
 ## 🚀 Getting Started
 
 ## Prerequisites
@@ -91,7 +89,6 @@ The project is organized into two main directories:
    ```bash
    cd server
 
-```
 
 2. **Install dependencies:**
 ```bash
