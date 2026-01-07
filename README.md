@@ -1,5 +1,5 @@
 ```
-### fitHub
+## fitHub
 
 > A finance membership tracker.
 
