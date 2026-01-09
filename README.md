@@ -60,17 +60,6 @@ fitHub is a full-stack web application designed to manage fitness club membershi
 
 
 
-## 📂 Project Structure
-
-The project is organized into two main directories:
-
-- **`client/`**: The Next.js frontend application.
-- **`server/`**: The Django backend application with 5 sub-apps:
-  - `classes_offered`
-  - `finance_tracking`
-  - `member_logs`
-  - `message_platform`
-  - `user_auth`
 
 ## 🚀 Getting Started
 
