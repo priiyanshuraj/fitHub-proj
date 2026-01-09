@@ -93,7 +93,7 @@ pip install -r requirements.txt
 ```
 
 
-**
+
 3. **Run Migrations:**
 ```bash
 python manage.py migrate
@@ -125,7 +125,7 @@ npm install
 ```
 
 
-**
+
 3. **Start the Development Server:**
 ```bash
 npm run dev
@@ -133,7 +133,7 @@ npm run dev
 ```
 
 
-**
+
 4. **Access the App:**
 Open [http://localhost:3000] in your browser.
 
