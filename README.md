@@ -1,30 +1,30 @@
-# 🤸🏽‍♀️fitHub
+# fitHub
 
 > A finance membership tracker.
 
 fitHub is a full-stack web application designed to manage fitness club memberships, finances, and communications. It features role-based access control, real-time chat functionality, and comprehensive class scheduling.
 
 
-## 📋 Table of Contents
+## Table of Contents
 
-- [Tech Stack](#-tech-stack)
-- [Features](#-features)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-- [Environment Variables](#-environment-variables)
-- [License](#-license)
+  [Tech Stack](#-tech-stack)
+  [Features](#-features)
+  [Project Structure](#-project-structure)
+  [Getting Started](#-getting-started)
+  [Environment Variables](#-environment-variables)
+  [License](#-license)
 
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ## Frontend (Client)
-- **Framework:** [Next.js](https://nextjs.org/)
-- **Styling:** Tailwind CSS, Autoprefixer, PostCSS
-- **Components:** PrimeReact, React Icons, Hamburger React
-- **Animations:** Framer Motion
-- **Data Visualization:** React Chartjs 2
-- **Calendar:** React Big Calendar
-- **Utilities:** Moment.js, Classnames, React Use, React Hot Toast
+  **Framework:** [Next.js](https://nextjs.org/)
+  **Styling:** Tailwind CSS, Autoprefixer, PostCSS
+  **Components:** PrimeReact, React Icons, Hamburger React
+  **Animations:** Framer Motion
+  **Data Visualization:** React Chartjs 2
+  **Calendar:** React Big Calendar
+  **Utilities:** Moment.js, Classnames, React Use, React Hot Toast
 
 ## Backend (Server)
 - **Framework:** [Django](https://www.djangoproject.com/)
