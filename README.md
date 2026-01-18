@@ -61,7 +61,7 @@ fitHub is a full-stack web application designed to manage fitness club membershi
 
 
 
-## 🚀 Getting Started
+## Getting Started
 
 ## Prerequisites
 - Node.js (v18+)
