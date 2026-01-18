@@ -1,11 +1,11 @@
-# 🤸🏽‍♀️fitHub
+# fitHub
 
 > A finance membership tracker.
 
 fitHub is a full-stack web application designed to manage fitness club memberships, finances, and communications. It features role-based access control, real-time chat functionality, and comprehensive class scheduling.
 
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Tech Stack](#-tech-stack)
 - [Features](#-features)
@@ -15,7 +15,7 @@ fitHub is a full-stack web application designed to manage fitness club membershi
 - [License](#-license)
 
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ## Frontend (Client)
 - **Framework:** [Next.js](https://nextjs.org/)
@@ -38,7 +38,7 @@ fitHub is a full-stack web application designed to manage fitness club membershi
 
 
 
-## ✨ Features
+##Features
 
 - **Role-Based Access Control:** Distinct functionality for Members, Coaches, and Treasurers.
 - **Class Management:**
@@ -126,14 +126,14 @@ npm run dev
 4. **Access the App:**
 Open [http://localhost:3000] in your browser.
 
-## 🔐 Environment Variables
+## Environment Variables
 
 The project requires environment variables for database connections and security keys.
 
 * **Server:** Create a `.env` file in the `server` directory. Refer to `.env.example`.
 * **Client:** Ensure any necessary public API keys are configured in `.env.local` if applicable.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
 
